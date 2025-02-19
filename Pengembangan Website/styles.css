@@ -48,3 +48,17 @@ nav > a:hover{
     width:300px;
 }
 
+#pengalaman{
+    color: white;
+}
+
+.pengalamanku{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    gap: 40px;
+}
+
+#lisensi{
+    color: white;
+}
